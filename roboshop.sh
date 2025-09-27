@@ -2,8 +2,8 @@
 
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-09ec65e9afe455a58" # replace with your SG ID
-ZONE_ID="Z0948150OFPSYTNVYZOY" # replace with your ID
-DOMAIN_NAME="daws86s.fun"
+ZONE_ID="Z0083658P9Z44M0M2N5E" # replace with your ID
+DOMAIN_NAME="boostfox.in"
 
 for instance in $@ # mongodb redis mysql
 do
